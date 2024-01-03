@@ -191,7 +191,7 @@ a {
 }
 
 .p-mv {
-	background: url(../img/mainvisual.png) no-repeat center center/cover;
+	background: url(./img/mainvisual.png) no-repeat center center/cover;
 }
 
 .p-mv__content {
@@ -361,7 +361,7 @@ a {
 }
 
 .p-news__link::after {
-	background: url(../img/news-arrow.png) no-repeat center center/cover;
+	background: url(./img/news-arrow.png) no-repeat center center/cover;
 	content: "";
 	height: 8px;
 	position: absolute;
@@ -505,7 +505,7 @@ a {
 }
 
 .p-access__button::after {
-	background: url(../img/button-arrow.png) no-repeat center center/cover;
+	background: url(./img/button-arrow.png) no-repeat center center/cover;
 	content: "";
 	height: 16px;
 	position: absolute;
@@ -616,7 +616,7 @@ a {
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	appearance: none;
-	background: url(../img/select-arrow.png) no-repeat center right 12px/17px 14px;
+	background: url(./img/select-arrow.png) no-repeat center right 12px/17px 14px;
 }
 
 .form__field-textarea {
@@ -732,7 +732,7 @@ a {
 }
 
 .form-checkbox__text::after {
-	background: url(../img/checkbox.png) no-repeat center center/contain;
+	background: url(./img/checkbox.png) no-repeat center center/contain;
 	height: 17.53px;
 	left: -1px;
 	margin-top: -1.2px;
@@ -764,7 +764,7 @@ a {
 }
 
 .form-button::after {
-	background: url(../img/button-arrow.png) no-repeat center center/cover;
+	background: url(./img/button-arrow.png) no-repeat center center/cover;
 	content: "";
 	height: 16px;
 	position: absolute;
